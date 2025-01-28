@@ -64,7 +64,7 @@ export const EXPERIENCES = [
 
 export const CONTACT = {
   address: "Nad Al Hamar, UAE",
-  phoneNo: "+971-557879441",
+  phoneNo: "+971-557879441", 
   phoneNo1:"+91-8169458182",
   email: "dalalhatim1316@gmail.com",
 };
